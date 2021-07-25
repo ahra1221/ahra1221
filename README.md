@@ -4,9 +4,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahra1221&show_icons=true&theme=graywhite)](https://github.com/ahra1221/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lizze1221)](https://solved.ac/lizze1221)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lizze1221)](https://solved.ac/lizze1221)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=lizze1221)](https://solved.ac/lizze1221)
 
 <!--
 **ahra1221/ahra1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
