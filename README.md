@@ -15,7 +15,6 @@
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahra1221&show_icons=true&theme=graywhite)](https://github.com/ahra1221/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahra1221&layout=compact&theme=graywhite)](https://github.com/ahra1221/github-readme-stats)
 
 <br>
 
