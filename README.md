@@ -3,7 +3,7 @@
 
 <ul>
   <li>🌱 I’m currently learning 
-    	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    	[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]
   </li>
   <li>❄️ I'm majoring in Software Convergence, at Sookmyung Women's University </li>
   <li>💻 I'm using blog to record web hacking study : https://blog.naver.com/lizze1221 </li>
