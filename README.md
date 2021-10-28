@@ -2,7 +2,7 @@
 
 
 <ul>
-  <li>🌱 I’m currently learning 
+  <li>🌱 I’m currently learning <br>
     ```C++``` ```Java```
   </li>
   <li>❄️ I'm majoring in Software Convergence, at Sookmyung Women's University </li>
