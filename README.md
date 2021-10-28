@@ -2,7 +2,7 @@
 
 
 <ul>
-  <li>🌱 I’m currently learning 
+  <li>🌱 I’m currently learning <br>
     	[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]
   </li>
   <li>❄️ I'm majoring in Software Convergence, at Sookmyung Women's University </li>
