@@ -2,8 +2,8 @@
 ## 👋 Welcome ahra1221's github &nbsp;&nbsp;
 -->    
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20ahra1221's%20github&fontSize=40&fontAlign=65&fontColor=ffffff)
-<br>
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20ahra1221's%20github&fontSize=40&fontAlign=65&fontColor=ffffff)
+<br> -->
  
    <div align=center>
 	
@@ -30,7 +30,7 @@
   <li>💻 I'm using blog to record web hacking study : https://blog.naver.com/lizze1221 </li>
 </ul> -->
 
-<br><br>
+<br>
 
 <div align=center>
 	
