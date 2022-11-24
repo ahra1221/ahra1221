@@ -14,6 +14,9 @@
 <!--
 <h3 align="center"><b>🛠 Tech Stack 🛠</b><br></h3>
 <h5 align="center">Techs that I've used at least once</h5> -->
+<p align = "center">
+	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/></a> &nbsp 
+
 <p align="center"> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>&nbsp 
@@ -30,12 +33,12 @@
 
 <div align=center>
 	
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahra1221&show_icons=true&theme=graywhite)](https://github.com/ahra1221/github-readme-stats)
+  [![ahra1221's github stats](https://github-readme-stats.vercel.app/api?username=ahra1221&show_icons=true&theme=graywhite)](https://github.com/ahra1221/github-readme-stats)
 	
   </div>
 <!--
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lizze1221)](https://solved.ac/lizze1221)
-![ahra1221's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ahra1221&layout=compact&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahra1221&show_icons=true&bg_color=00000000)
 <br>
 
 👑 BOJ Tier <br><br>
