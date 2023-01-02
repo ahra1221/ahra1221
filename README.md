@@ -14,7 +14,7 @@
 <!--
 <h3 align="center"><b>🛠 Tech Stack 🛠</b><br></h3>
 <h5 align="center">Techs that I've used at least once</h5> -->
-<p align = "center">
+<br><p align = "center">
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/></a> &nbsp 
 
 <p align="center"> 
