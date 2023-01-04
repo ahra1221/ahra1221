@@ -18,7 +18,7 @@
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/></a> &nbsp 
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> &nbsp 
 <!--
@@ -32,11 +32,10 @@
 <br>
 
 <div align=center>
-	
+<!--	
   [![ahra1221's github stats](https://github-readme-stats.vercel.app/api?username=ahra1221&show_icons=true&theme=graywhite)](https://github.com/ahra1221/github-readme-stats)
 	
   </div>
-<!--
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lizze1221)](https://solved.ac/lizze1221)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahra1221&show_icons=true&bg_color=00000000)
 <br>
