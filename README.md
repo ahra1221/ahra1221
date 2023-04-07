@@ -15,14 +15,15 @@
 <!--
 <h3 align="center"><b>🛠 Tech Stack 🛠</b><br></h3>
 <h5 align="center">Techs that I've used at least once</h5> -->
+<!--
 <br><p align = "center">
 	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/></a> &nbsp 
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> &nbsp
+  <img src="https://simpleicons.org/?q=swift-F05138?style=for-the-badge&logo=Swift&logoColor=#F05138"/></a> &nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> &nbsp 
-<!--
+
 <ul>
   <li>🌱 I’m currently learning Java
   </li>
