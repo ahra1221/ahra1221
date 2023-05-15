@@ -7,7 +7,7 @@
 <br> -->
  
    <div align=center>
-	
+<br>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahra1221&count_bg=%235C6BC0&title_bg=%23B8BEEF&icon=smugmug.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   ![followers](https://img.shields.io/github/followers/ahra1221?style=social)
 	
