@@ -8,7 +8,8 @@
 ## Education & Work Experience 💼
 |Date| Experience |
 | ------- | ---- |
-| 25.04 - ing | Mobile Engineer, [Career](https://www.career.co.kr) |
+| 25.12 - 26.03 | iOS Intern, [NudgeHealthCare](https://cashwalk.com) |
+| 25.04 - 25.12 | Mobile Engineer, [Career](https://www.career.co.kr) |
 | 24.11 - 25.01 | iOS Engineer Intern, [Mobile App Development Cooperative](https://mobileappdev.mycafe24.com) |
 | 20.03 - 25.08 | B.S. in Software Convergence, [Sookmyung Women’s University](https://www.sookmyung.ac.kr/kr/index.do) |
 
